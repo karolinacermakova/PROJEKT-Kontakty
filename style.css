@@ -43,7 +43,6 @@ img {
 	
 	main {
 		display: flex;
-		flex-wrap: wrap;
 	}
 
 	article {
